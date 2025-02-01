@@ -1,1 +1,2 @@
 "To jest m¢j pierwszy plik w repozytorium Git!" 
+"Kolejna linijka w GIT!" 
